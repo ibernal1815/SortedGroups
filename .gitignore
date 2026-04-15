@@ -1,0 +1,11 @@
+# Data files - never commit real server inventory data
+*.xlsx
+*.xls
+*.csv
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.ps1xml
